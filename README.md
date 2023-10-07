@@ -12,3 +12,7 @@ Servicios:
 - Data Factory
 - Azure Databricks
 - Azure Synapse Analytics
+
+## Arquitectura
+
+![Tokyo Olympics Arquitecture](https://github.com/JhonBS20/Lab_Olympics_Data_Analytics_Azure/blob/main/Tokyo%20Olympics%20Arquitecture.png?raw=true)
